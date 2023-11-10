@@ -8,7 +8,7 @@ Step 1: Copy link from the code button and paste in the browser then add "box" k
 else 
 copy paste this below link
 
-https://github.com/RiyaKhasare/Task-3-VideoConferencing-BharatIntern
+https://codesandbox.io/p/sandbox/github/RiyaKhasare/Task-3-VideoConferencing-BharatIntern/tree/main
 
 
 You can run this program in Sandbox directly
